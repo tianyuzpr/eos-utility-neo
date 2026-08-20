@@ -1,6 +1,7 @@
 # 📷 EOS Utility Neo
 
 Language | 语言
+
 [中文(简体)](./README.md) | English
 
 > **Disclaimer:** This document is translated from Chinese by LLM.  
