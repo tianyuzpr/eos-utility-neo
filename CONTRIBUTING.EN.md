@@ -2,7 +2,7 @@
 
 语言 | Language
 
-中文(简体) | [English](./CONTRIBUTING.EN.md)
+[中文(简体)](./CONTRIBUTING.md) | English
 
 > **Disclaimer:** This document is translated from Chinese by LLM/Machine Translation.  
 > For the original version, please refer to [CONTRIBUTING.md](./CONTRIBUTING.md).
