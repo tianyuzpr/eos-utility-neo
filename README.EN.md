@@ -13,6 +13,7 @@ Language | 语言
 - [Status](#status)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technology Stack](#technology-stack)
 - [License](#license)
 - [Contributing](#contributing)
 - [Contact Us](#contact-us)
@@ -26,6 +27,7 @@ The original EOS Utility 2.x features an outdated interface and poor compatibili
 ## Status
 
 🚧 Under active development... Contributions are welcome!  
+
 Get involved: [Contact Us](#contact-us)
 
 ## Installation
@@ -36,13 +38,22 @@ Placeholder
 
 Placeholder
 
+## Technology Stack
+
+- [Python 3.13](https://www.python.org/downloads/release/python-31315/)
+- [pyedsdk](https://github.com/fmargall/pyedsdk)
+- [Flask](https://flask.palletsprojects.com/)
+- [pywebview](https://pywebview.flowrl.com/)
+- Canon EDSDK（See below for regions with official EDSDK portals）
+
 ## License
 
 - [Apache License 2.0](./LICENSE)
+- [Apache License 2.0 Chinese(Simplified)](./LICENSE.ZHCN)
 - For Canon EDSDK license terms, please refer to the official Canon website.
 
 <details>
-<summary>Canon EDSDK Official Portals (click to expand)</summary>
+<summary>Regions with official Canon EDSDK Portals (click to expand)</summary>
 
 - [Canon China](https://www.canon.com.cn/supports/sdk/icp/)
 - [Canon Europe Developer Program](https://developers.canon-europe.com/developers)
@@ -54,7 +65,7 @@ Placeholder
 
 ## Contributing
 
-Please see [CONTRIBUTING.md](./CONTRIBUTING.md)
+Please see [CONTRIBUTING.EN.md](./CONTRIBUTING.EN.md)
 
 ## Contact Us
 

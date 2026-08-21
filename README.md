@@ -6,13 +6,14 @@
 
 ## 目录
 
-[项目描述](#项目描述)
-[现状](#现状)
-[安装说明](#安装说明)
-[使用方法](#使用方法)
-[许可证](#许可证)
-[贡献指南](#贡献指南)
-[联系我们](#联系我们)
+- [项目描述](#项目描述)
+- [现状](#现状)
+- [安装说明](#安装说明)
+- [使用方法](#使用方法)
+- [技术栈](#技术栈)
+- [许可证](#许可证)
+- [贡献指南](#贡献指南)
+- [联系我们](#联系我们)
 
 ## 项目描述
 
@@ -23,6 +24,7 @@
 ## 现状
 
 🚧 开发中...欢迎您的加入！
+
 加入开发：[联系我们](#联系我们)
 
 ## 安装说明
@@ -33,13 +35,22 @@
 
 占位符
 
+## 技术栈
+
+- [Python 3.13](https://www.python.org/downloads/release/python-31315/)
+- [pyedsdk](https://github.com/fmargall/pyedsdk)
+- [Flask](https://flask.palletsprojects.com/)
+- [pywebview](https://pywebview.flowrl.com/)
+- Canon EDSDK（见下方部分地区佳能 EDSDK 官方入口）
+
 ## 许可证
 
 - [Apache License 2.0](./LICENSE)
+- [Apache License 2.0 中文参考](./LICENSE.ZHCN)
 - Canon EDSDK 许可协议请参见佳能官网
 
 <details>
-<summary>佳能 EDSDK 官方入口（点击展开）</summary>
+<summary>部分地区佳能 EDSDK 官方入口（点击展开）</summary>
 
 - [佳能中国](https://www.canon.com.cn/supports/sdk/icp/)
 - [佳能欧洲开发者项目](https://developers.canon-europe.com/developers)

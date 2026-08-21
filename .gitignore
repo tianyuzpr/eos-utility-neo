@@ -1,15 +1,21 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *.class
 *.so
-.Python
+*.dll
+
+# Virtual environments
 env/
 venv/
 ENV/
 .venv
+
+# Pip
 pip-log.txt
 pip-delete-this-directory.txt
+
+# Testing
 .pytest_cache/
 .coverage
 htmlcov/
@@ -17,3 +23,22 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# EDSDK (users must download and place manually)
+EDSDK/*
+!EDSDK/.gitkeep
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Camera output
+*.RAW
+*.CR2
+*.JPG

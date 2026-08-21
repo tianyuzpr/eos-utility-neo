@@ -1,0 +1,19 @@
+2026-08-21 15:07:57,124 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:23456
+ * Running on http://192.168.1.88:23456
+2026-08-21 15:07:57,124 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-08-21 15:08:22,051 - werkzeug - INFO - 127.0.0.1 - - [21/Aug/2026 15:08:22] "GET / HTTP/1.1" 200 -
+2026-08-21 15:08:22,144 - werkzeug - INFO - 127.0.0.1 - - [21/Aug/2026 15:08:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-08-21 15:08:28,675 - werkzeug - INFO - 127.0.0.1 - - [21/Aug/2026 15:08:28] "GET /api/hello HTTP/1.1" 200 -
+2026-08-21 15:10:31,433 - __main__ - INFO - Flask app initialized with configuration: <Config {'DEBUG': False, 'TESTING': False, 'PROPAGATE_EXCEPTIONS': None, 'SECRET_KEY': 'your_secret_key', 'PERMANENT_SESSION_LIFETIME': datetime.timedelta(days=31), 'USE_X_SENDFILE': False, 'SERVER_NAME': None, 'APPLICATION_ROOT': '/', 'SESSION_COOKIE_NAME': 'session', 'SESSION_COOKIE_DOMAIN': None, 'SESSION_COOKIE_PATH': None, 'SESSION_COOKIE_HTTPONLY': True, 'SESSION_COOKIE_SECURE': False, 'SESSION_COOKIE_SAMESITE': None, 'SESSION_REFRESH_EACH_REQUEST': True, 'MAX_CONTENT_LENGTH': None, 'SEND_FILE_MAX_AGE_DEFAULT': None, 'TRAP_BAD_REQUEST_ERRORS': None, 'TRAP_HTTP_EXCEPTIONS': False, 'EXPLAIN_TEMPLATE_LOADING': False, 'PREFERRED_URL_SCHEME': 'http', 'TEMPLATES_AUTO_RELOAD': None, 'MAX_COOKIE_SIZE': 4093, 'HOST': '0.0.0.0', 'LOG_FILE': 'logs/app.log', 'LOG_FORMAT': '%(asctime)s - %(name)s - %(levelname)s - %(message)s', 'LOG_LEVEL': 'INFO', 'PORT': 23456, 'PRODUCTION': False, 'PYWEBVIEW': False}>
+2026-08-21 15:10:31,451 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:23456
+ * Running on http://192.168.1.88:23456
+2026-08-21 15:10:31,451 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-08-21 15:10:45,199 - __main__ - INFO - Accessed index page
+2026-08-21 15:10:45,202 - werkzeug - INFO - 127.0.0.1 - - [21/Aug/2026 15:10:45] "GET / HTTP/1.1" 200 -
+2026-08-21 15:10:48,334 - __main__ - INFO - Accessed index page
+2026-08-21 15:10:48,334 - werkzeug - INFO - 127.0.0.1 - - [21/Aug/2026 15:10:48] "GET / HTTP/1.1" 200 -
+2026-08-21 15:10:55,993 - __main__ - INFO - Flask app running on 0.0.0.0:23456 with debug=False
